@@ -1,4 +1,4 @@
-# B4J
+# B4J HowTos
 While learning and exploring [B4J](https://www.b4x.com/b4j.html), captured B4J HowTos (over 1000) and buildmore then 200 sample projects.
 The B4J HowTos are either from own experience or inspired by hints from the B4J forum.
 Please note, due to other commitments, the B4J HowTos are not regularly updated, information might not cover solutions possible with the latest B4J version (see also [B4J Forum](https://www.b4x.com/android/forum/threads/b4j-howtos.36350/)).
