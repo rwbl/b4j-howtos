@@ -1,0 +1,36 @@
+﻿AppType=StandardJava
+Build1=Default,b4j.example
+Group=Default Group
+Library1=jcore
+NumberOfFiles=0
+NumberOfLibraries=1
+NumberOfModules=0
+Version=7
+@EndOfDesignText@
+' Non-UI application (console application)
+#Region Project Notes
+' B4J HowTo Project - Non-UI HelloWorld
+' Output "Hello World" to the console
+' From commandline run: java -jar helloworld.jar
+' @autor Robert W.B. Linn
+' @since 20150501 
+#End Region
+
+#Region ToDo
+#End Region
+
+#Region Project Attributes
+#End Region
+
+Sub Process_Globals
+	'No declarations
+End Sub
+
+Sub AppStart (Args() As String)
+	Log("App Startet " & DateTime.Date(DateTime.Now) & " " & DateTime.Time(DateTime.Now))
+	Log($"${DateTime.Date(DateTime.Now)}"$)
+	Log("Hello World")
+	'Stop the application
+	ExitApplication2(0)
+End Sub
+
