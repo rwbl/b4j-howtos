@@ -1,7 +1,9 @@
 # B4J HowTos
 Whilst learning and exploring [B4J - RAD development tool for cross platform desktop, server and IoT solutions](https://www.b4x.com/b4j.html), captured **HowTos** (over 1000 in the mean time) and build more then 200 sample projects.
 The **HowTos** are either from own experience or inspired by hints from the B4J forum.
-_Please note_, due to other commitments, the **HowTos** are not regularly updated, information might not cover solutions possible with the latest B4J version (see also [B4J Forum](https://www.b4x.com/android/forum/threads/b4j-howtos.36350/)).
+
+_Please note_: the **HowTos** are not regularly updated, means information might not cover solutions possible with the latest B4J version (see also [B4J Forum](https://www.b4x.com/android/forum/threads/b4j-howtos.36350/)).
+Tested with B4J v6.30 and JDK8.
 
 ## Archive
 The **HowTos** are stored in the archive b4jhowto20180607.zip.
