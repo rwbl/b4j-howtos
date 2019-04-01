@@ -6,8 +6,8 @@ _Please note_: the **HowTos** are not regularly updated, means information might
 Tested with B4J v6.30 and JDK8.
 
 ## Archive
-The **HowTos** are stored in the archive b4jhowto20180607.zip.
-This archive does not contain the archives of the sample projects. Please request a sample project via [email](mailto:rwblinn@outlook.de).
+* The **HowTos** are stored in the archive b4jhowto20180607.zip.
+* This archive contains selective sample projects. For  more samples, please request via [email](mailto:rwblinn@outlook.de).
 
 ## Install
 Unzip the archive to a folder of choice and open index.htm.
