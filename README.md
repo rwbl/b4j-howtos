@@ -12,13 +12,13 @@ _Please note_:
 
 ## Archives
 * The **B4J HowTos** are stored in the archive **b4jhowto20180607.zip**.
-* Selective sample projects in folder **sampleprojects**. For more samples, please request via [email](mailto:rwblinn@outlook.de).
+* Selective sample projects in folder **sampleprojects**.
 
 ## Install
-Unzip the archive **b4jhowto20180607.zip** to a folder of choice and open index.htm in a browser.
+Unzip the archive **b4jhowto20180607.zip** to a folder of choice and open **index.htm** in a browser.
 
 ## Notes
-Issue displaying the HTML pages with some browsers. The index displays the topics, but not the content. It is possible to search through the html files and then display them. But the index.htm as a table of contents can notbe used.
+Issue displaying the HTML pages with some browsers. The index displays the topics, but not the content. It is possible to search through the html files and then display them. But the index.htm as a table of contents can not be used.
 It works with Firefox (Quantum browser engine), but not with Chrome, Opera or Torch browser's or any other using the Blink browser engine.
 
 ## Warrenty
